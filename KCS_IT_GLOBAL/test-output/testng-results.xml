@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="76575" started-at="2023-03-01T19:32:34 IST" finished-at="2023-03-01T19:33:50 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="76575" started-at="2023-03-01T19:32:34 IST" finished-at="2023-03-01T19:33:50 IST">
+      <class name="com.kcs.KCS_Test">
+        <test-method status="PASS" signature="setEnv1()[pri:0, instance:com.kcs.KCS_Test@6b9651f3]" name="setEnv1" is-config="true" duration-ms="16925" started-at="2023-03-01T19:32:34 IST" finished-at="2023-03-01T19:32:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEnv1 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.kcs.KCS_Test@6b9651f3]" name="test1" duration-ms="6151" started-at="2023-03-01T19:32:51 IST" finished-at="2023-03-01T19:32:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.kcs.KCS_Test@6b9651f3]" name="test2" duration-ms="2542" started-at="2023-03-01T19:32:57 IST" finished-at="2023-03-01T19:33:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.kcs.KCS_Test@6b9651f3]" name="test3" duration-ms="6950" started-at="2023-03-01T19:33:00 IST" finished-at="2023-03-01T19:33:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:com.kcs.KCS_Test@6b9651f3]" name="test4" duration-ms="31099" started-at="2023-03-01T19:33:07 IST" finished-at="2023-03-01T19:33:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:com.kcs.KCS_Test@6b9651f3]" name="test5" duration-ms="515" started-at="2023-03-01T19:33:38 IST" finished-at="2023-03-01T19:33:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test6()[pri:0, instance:com.kcs.KCS_Test@6b9651f3]" name="test6" duration-ms="7479" started-at="2023-03-01T19:33:38 IST" finished-at="2023-03-01T19:33:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method status="PASS" signature="test7()[pri:0, instance:com.kcs.KCS_Test@6b9651f3]" name="test7" duration-ms="4832" started-at="2023-03-01T19:33:46 IST" finished-at="2023-03-01T19:33:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+      </class> <!-- com.kcs.KCS_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
